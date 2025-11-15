@@ -17,10 +17,7 @@
 
 ## 系列教程
 
- 1. 记录博客：[PaddlePaddleCourse](https://blog.csdn.net/m0_50913327?type=blog) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/PaddlePaddleCourse)
-
-
-
+ 1. 记录博客：[CSDN 最难不过坚持丶](https://blog.csdn.net/m0_50913327?type=blog) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/PaddlePaddleCourse)
 
 
 <picture>
