@@ -3,7 +3,10 @@
 ![](https://img.shields.io/badge/常用框架-SpringCloud-green)
 ![](https://img.shields.io/badge/常用框架-Vue-yellow)
 ![](https://img.shields.io/badge/常用框架-Pytorch-red)
+![](https://img.shields.io/badge/Language-Jakrata-orange)
 ![](https://img.shields.io/badge/Language-Python-orange)  
+![](https://img.shields.io/badge/Language-GO-orange)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuanJie2001&show_icons=true&theme=radical&cache_seconds=200*300)
 
