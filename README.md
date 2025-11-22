@@ -12,9 +12,10 @@
 
 # 核心项目
 
-|  项目类型  |                                              Pytorch版本                                               |                                                 PaddlePaddle版本                                                 | 备注 |
+|  项目类型  |                                              地址                                                                               | 备注 |
 |:------:|:----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|:--:|
-|  多 Agent 协同系统 (Multi-Agent Collaborative System)  |                             [MASR]()                             |                                 [PPASR]()                                 |    |
+|  多 Agent 协同系统 (Multi-Agent Collaborative System)  |            [address](https://github.com/mxr-vector/mxr-ai-model-base)                                    |     |
+|  文档处理工具包 (Multi-Docs-Toolkit)  |                             [address](https://github.com/mxr-vector/mxr-multi-docs-toolkit)                                              |    |
 
 
 
