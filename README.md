@@ -10,6 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuanJie2001&show_icons=true&theme=radical&cache_seconds=200*300)
 
+
 # 核心项目
 
 |  项目类型  |                                              地址                                                                               | 备注 |
@@ -22,7 +23,9 @@
 
 ## 系列教程
 
- 1. 记录博客：[CSDN 最难不过坚持丶](https://blog.csdn.net/m0_50913327?type=blog) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/PaddlePaddleCourse)
+1. [mxr组织](https://github.com/mxr-vector)
+2. [gitee](https://gitee.com/WangJiaHui202144)
+3. 记录博客：[CSDN 最难不过坚持丶](https://blog.csdn.net/m0_50913327?type=blog) ![GitHub Repo stars](https://img.shields.io/github/stars/yeyupiaoling/PaddlePaddleCourse)
 
 
 <picture>
