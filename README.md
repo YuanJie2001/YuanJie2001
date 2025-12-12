@@ -9,7 +9,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuanJie2001&show_icons=true&theme=radical&cache_seconds=200*300)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuanJie2001)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 核心项目
