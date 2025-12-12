@@ -15,6 +15,7 @@
 
 |  项目类型  |                                              地址                                                                               | 备注 |
 |:------:|:----------------------------------------------------------------------------------------------------:|:--:|
+|声纹识别项目增强| [adress](mxr-voiceprint-recognition-pytorch) |
 |  多 Agent 协同系统 (Multi-Agent Collaborative System)  |            [address](https://github.com/mxr-vector/mxr-ai-model-base)                                    |     |
 |  文档处理工具包 (Multi-Docs-Toolkit)  |                             [address](https://github.com/mxr-vector/mxr-multi-docs-toolkit)                                              |    |
 |  证件电子化 (mxr-ocr-scan)  |                             [address](https://github.com/mxr-vector/mxr-ocr-scan)                                              |    |
