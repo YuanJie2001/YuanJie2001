@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);渊洁祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YuanJie2001/blob/main/resource/coding.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YuanJie2001/blob/main/resource/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/YuanJie2001/blob/main/resource/coding.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="resource/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="resource/developer.svg" height="225px" />
+  <img src="resource/coding.gif" />
 </picture>
 
 <div>
@@ -32,7 +32,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuanJie2001&show_icons=true&theme=radical&cache_seconds=200*300)
 
-<img width="200%" src="https://github.com/YuanJie2001/YuanJie2001/blob/main/resource/hr.gif" />
+<img width="200%" src="resource/hr.gif" />
 
 # 核心项目
 
@@ -61,7 +61,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuanJie2001/YuanJie2001/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<img src="https://skillicons.dev/icons?i=linux,ai,java,go,python,ts,mysql,spring,vue,docker,node,redis,idea,git" /><br>
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -74,5 +74,15 @@
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+
+<!-- gif -->
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
 
 <img src="resource/icon.png" />
