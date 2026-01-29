@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/mxr-vector"><img src="https://img.shields.io/badge/org-核心组织-8c36db" /></a>&emsp;
-  <a href="https://blog.csdn.net/m0_50913327?type=blog"><img src="https://img.shields.io/badge/GITEE-gitee-ff69b4" /></a>&emsp;
-  <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/CSDN-博客-ff69b4" /></a>&emsp;
+  <a href="https://gitee.com/WangJiaHui202144"><img src="https://img.shields.io/badge/GITEE-gitee-ff69b4" /></a>&emsp;
+  <a href="https://t.csdn.cn/LJcMp"><img src="https://img.shields.io/badge/CSDN-博客-ff69b4" /></a>&emsp;
   <a href="http://weixin.qq.com/r/mp/tR1TS-TEEalurbAo90in"><img src="https://img.shields.io/badge/WeChat-微信公众号-ff69b4" /></a>&emsp;
   <a href="https://u.wechat.com/ENNcSIFgiv7RiZWcwNAutkc?s=2"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
   <!-- visitor -->
