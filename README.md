@@ -60,7 +60,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuanJie2001/YuanJie2001/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://skillicons.dev/icons?i=linux,ai,java,go,python,ts,mysql,spring,vue,docker,node,redis,idea,git" /><br>
+<img src="https://skillicons.dev/icons?i=linux,ai,java,go,python,ts,mysql,spring,vue,docker,nodejs,redis,idea,git" /><br>
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
