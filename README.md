@@ -21,7 +21,6 @@
 </div>
 
 # 常用技术栈
-![访问者](https://komarev.com/ghpvc/?username=YuanJie2001&label=Visitors&color=red&style=flat&logo=github)
 ![](https://img.shields.io/badge/常用框架-SpringCloud-green)
 ![](https://img.shields.io/badge/常用框架-Vue-yellow)
 ![](https://img.shields.io/badge/常用框架-Pytorch-red)
