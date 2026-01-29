@@ -9,10 +9,10 @@
 </picture>
 
 <div>
-  <a href="https://github.com/mxr-vector"><img src="https://img.shields.io/badge/Website-核心组织-8c36db" /></a>&emsp;
+  <a href="https://github.com/mxr-vector"><img src="https://img.shields.io/badge/org-核心组织-8c36db" /></a>&emsp;
   <a href="https://blog.csdn.net/m0_50913327?type=blog"><img src="https://img.shields.io/badge/GITEE-gitee-ff69b4" /></a>&emsp;
   <a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/CSDN-博客-ff69b4" /></a>&emsp;
-  <a href="http://weixin.qq.com/r/mp/tR1TS-TEEalurbAo90in"><img src="https://img.shields.io/badge/wxpublic-微信公众号-ff69b4" /></a>&emsp;
+  <a href="http://weixin.qq.com/r/mp/tR1TS-TEEalurbAo90in"><img src="https://img.shields.io/badge/WeChat-微信公众号-ff69b4" /></a>&emsp;
   <a href="https://u.wechat.com/ENNcSIFgiv7RiZWcwNAutkc?s=2"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=YuanJie2001&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
@@ -21,9 +21,9 @@
 </div>
 
 # 常用技术栈
-![](https://img.shields.io/badge/常用框架-SpringCloud-green)
-![](https://img.shields.io/badge/常用框架-Vue-yellow)
-![](https://img.shields.io/badge/常用框架-Pytorch-red)
+![](https://img.shields.io/badge/框架-SpringCloud-green)
+![](https://img.shields.io/badge/框架-Vue-yellow)
+![](https://img.shields.io/badge/框架-Pytorch-red)
 ![](https://img.shields.io/badge/Language-Jakrata-orange)
 ![](https://img.shields.io/badge/Language-Python-orange)  
 ![](https://img.shields.io/badge/Language-GO-orange)
