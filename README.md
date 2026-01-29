@@ -62,6 +62,7 @@
 
 <img src="https://skillicons.dev/icons?i=linux,ai,java,go,python,ts,mysql,spring,vue,docker,nodejs,redis,idea,git" /><br>
 <!-- svg -->
+<div align="center" >
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
