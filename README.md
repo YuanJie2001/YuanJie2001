@@ -24,6 +24,8 @@
 ![](https://img.shields.io/badge/框架-SpringCloud-green)
 ![](https://img.shields.io/badge/框架-Vue-yellow)
 ![](https://img.shields.io/badge/框架-Pytorch-red)
+![](https://img.shields.io/badge/框架-Transformers-blue)
+![](https://img.shields.io/badge/框架-fastapi-purple)
 ![](https://img.shields.io/badge/Language-Jakrata-orange)
 ![](https://img.shields.io/badge/Language-Python-orange)  
 ![](https://img.shields.io/badge/Language-GO-orange)
