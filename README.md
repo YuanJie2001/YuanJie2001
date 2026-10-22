@@ -28,6 +28,7 @@
 ![](https://img.shields.io/badge/框架-fastapi-purple)
 ![](https://img.shields.io/badge/Language-Jakrata-orange)
 ![](https://img.shields.io/badge/Language-Python-orange)  
+![](https://img.shields.io/badge/Language-HarmonyOS-orange)  
 ![](https://img.shields.io/badge/Language-GO-orange)
 
 
