@@ -42,7 +42,6 @@
 |:------:|:----------------------------------------------------------------------------------------------------:|:--:|
 |  多agent集成项目(ARAG,AI漫剧工作流,AI图像重绘)  |[mxr-multi-agent-service](https://github.com/mxr-vector/mxr-multi-agent-service) |
 |  声纹识别项目增强                                       |[mxr-voiceprint-recognition-pytorch](https://github.com/mxr-vector/mxr-voiceprint-recognition-pytorch) |     |
-|  多 Agent 协同系统 (Multi-Agent Collaborative System)  |            [mxr-ai-model-base](https://github.com/mxr-vector/mxr-ai-model-base)  |     |
 |  文档处理工具包 (Multi-Docs-Toolkit)  |                             [mxr-multi-docs-toolkit](https://github.com/mxr-vector/mxr-multi-docs-toolkit)    |    |
 |  证件电子化 (mxr-ocr-scan)  |                             [mxr-ocr-scan](https://github.com/mxr-vector/mxr-ocr-scan)   |    |
 
