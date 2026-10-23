@@ -50,9 +50,9 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YuanJie2001&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YuanJie2001&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuanJie2001&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuanJie2001/YuanJie2001/main/activity-365d.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuanJie2001/YuanJie2001/main/activity-365d.svg">
+        <img alt="GitHub Activity Chart" src="https://raw.githubusercontent.com/YuanJie2001/YuanJie2001/main/activity-365d.svg">
       </picture>
   </tr>
 </table>
