@@ -41,6 +41,7 @@
 |  项目类型  |                                              地址                                                                               | 备注 |
 |:------:|:----------------------------------------------------------------------------------------------------:|:--:|
 |  多agent集成项目(ARAG,AI漫剧工作流,AI图像重绘)  |[mxr-multi-agent-service](https://github.com/mxr-vector/mxr-multi-agent-service) |
+|  本地化的音乐资源管理播放器(配合AI漫剧工作流的BGM管理部分)  |[tfy-BGM-Rust](https://github.com/mxr-vector/tfy-BGM-Rust) |
 |  声纹识别项目增强                                       |[mxr-voiceprint-recognition-pytorch](https://github.com/mxr-vector/mxr-voiceprint-recognition-pytorch) |     |
 |  文档处理工具包 (Multi-Docs-Toolkit)  |                             [mxr-multi-docs-toolkit](https://github.com/mxr-vector/mxr-multi-docs-toolkit)    |    |
 |  证件电子化 (mxr-ocr-scan)  |                             [mxr-ocr-scan](https://github.com/mxr-vector/mxr-ocr-scan)   |    |
